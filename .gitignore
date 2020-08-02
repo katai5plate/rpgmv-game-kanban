@@ -1,3 +1,9 @@
+audio/
+fonts/
+img/
+icon/
+movies/
+
 # Logs
 logs
 *.log
